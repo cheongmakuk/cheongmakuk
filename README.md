@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Cheong Mak
+<h1 align="center">Hi 👋, I'm Cheong Mak</h1>
+<h3 align="center">Born in Hong Kong. Software developer in the UK.</h3>
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
